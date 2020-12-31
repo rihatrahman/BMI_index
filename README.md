@@ -1,1 +1,1 @@
-# bmi_index
+# BMI_index
